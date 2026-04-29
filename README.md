@@ -6,7 +6,7 @@ Focused on clean architecture, performance and intentional UX.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=%20&fontSize=1&animation=fadeIn&fontColor=ffffff&descAlign=50&descAlignY=50&bgColor=eeeeee"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e5e5,100:e5e5e5&height=40&section=header&text=&fontSize=1"/>
 </p>
 
 ---
