@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Alexander
 
-<!--
-**Coderyansky/Coderyansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer focused on building clean, fast and production-ready web applications.
+I care about precision, performance and thoughtful UX.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+
+* React (Vite, React Router)
+* Tailwind CSS
+* HTML5, CSS3
+
+**Backend**
+
+* Node.js (Hono, Express)
+* REST APIs
+
+**Languages**
+
+* TypeScript, JavaScript
+* PHP
+* Python
+
+**Tools & Workflow**
+
+* Git & GitHub
+* npm / package management
+* Vercel / Cloudflare Pages (deployment)
+* Basic Docker
+
+---
+
+## Languages
+
+* English — fluent
+* French — fluent
+* Russian — native
+
+---
+
+## Contact
+
+* Email: [Kodr0110@gmail.com](mailto:kodr0110@gmail.com)
+
