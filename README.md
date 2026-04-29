@@ -1,7 +1,14 @@
-# Hi, I'm Alexander
+# Coderyansky
 
-Fullstack developer focused on building clean, fast and production-ready web applications.
-I care about precision, performance and thoughtful UX.
+Fullstack developer building precise, fast and production-ready web applications.
+Focused on clean architecture, performance and quiet, intentional UX.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coderyansky&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderyansky&layout=compact&hide_border=true&title_color=000000&text_color=333333" height="150">
+</p>
 
 ---
 
@@ -27,9 +34,18 @@ I care about precision, performance and thoughtful UX.
 **Tools & Workflow**
 
 * Git & GitHub
-* npm / package management
-* Vercel / Cloudflare Pages (deployment)
-* Basic Docker
+* npm
+* Vercel / Cloudflare Pages
+* Docker (basic)
+
+---
+
+## Approach
+
+* Precise layout & spacing systems
+* Performance-first mindset
+* Minimal, distraction-free interfaces
+* Production-ready code over experiments
 
 ---
 
@@ -43,5 +59,10 @@ I care about precision, performance and thoughtful UX.
 
 ## Contact
 
-* Email: [Kodr0110@gmail.com](mailto:kodr0110@gmail.com)
+* Email: [kodr0110@gmail.com](mailto:kodr0110@gmail.com)
 
+---
+
+<p align="center">
+  <sub>“Le silence est la forme ultime du luxe.”</sub>
+</p>
