@@ -6,7 +6,7 @@ Focused on clean architecture, performance and intentional UX.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e5e5,100:e5e5e5&height=40&section=header&text=&fontSize=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e5e5,100:e5e5e5&height=40&section=header&text=PRECISION%20%2F%20PERFORMANCE%20%2F%20UX&fontSize=14&fontColor=555555"/>
 </p>
 
 ---
