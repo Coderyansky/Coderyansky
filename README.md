@@ -1,12 +1,12 @@
 # Coderyansky
 
 Fullstack developer building precise, fast and production-ready web applications.
-Focused on clean architecture, performance and quiet, intentional UX.
+Focused on clean architecture, performance and intentional UX.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Precision%20%2F%20Performance%20%2F%20Minimalism&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=%20&fontSize=1&animation=fadeIn&fontColor=ffffff&descAlign=50&descAlignY=50&bgColor=eeeeee"/>
 </p>
 
 ---
@@ -59,9 +59,3 @@ Focused on clean architecture, performance and quiet, intentional UX.
 ## Contact
 
 * Email: [kodr0110@gmail.com](mailto:kodr0110@gmail.com)
-
----
-
-<p align="center">
-  <sub>“Le silence est la forme ultime du luxe.”</sub>
-</p>
