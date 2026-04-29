@@ -6,8 +6,7 @@ Focused on clean architecture, performance and quiet, intentional UX.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coderyansky&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderyansky&layout=compact&hide_border=true&title_color=000000&text_color=333333" height="150">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Precision%20%2F%20Performance%20%2F%20Minimalism&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
@@ -40,12 +39,12 @@ Focused on clean architecture, performance and quiet, intentional UX.
 
 ---
 
-## Approach
+## Focus
 
-* Precise layout & spacing systems
-* Performance-first mindset
-* Minimal, distraction-free interfaces
-* Production-ready code over experiments
+* Building production-ready fullstack apps
+* Designing precise UI systems
+* Performance-first development
+* Clean, minimal UX
 
 ---
 
